@@ -1,0 +1,29 @@
+{
+  "name": "socialchampion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: test not implemented\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srestcom/socialchampion"
+  },
+  "keywords": [],
+  "author": "Parvin Baishkiyar",
+  "license": "Copyright protected, one can purchase license for as low as 10£",
+  "bugs": {
+    "url": "https://github.com/srestcom/socialchampion"
+  },
+  "homepage": "https://github.com/srestcom/socialchampion#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "got": "^10.5.5",
+    "oauth": "^0.9.15",
+    "twitter": "^1.7.1"
+  }
+}
